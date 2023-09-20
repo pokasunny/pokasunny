@@ -7,11 +7,16 @@ Before joining AssignRef, I served as a behavioral health technician in the US A
 I am currently pursuing my master's degree in computer science at the University of Southern California, where I am expanding my knowledge and skills in areas such as artificial intelligence, cloud computing, and cybersecurity. I am passionate about learning new technologies and applying them to real-world problems. I am seeking new opportunities to collaborate with other developers and create innovative and impactful solutions for the software industry.
 
 Contact me
+
 Email: zeyuanwdeveloper@gmail.com
+
 My portfolio website: 
 
-Skills
-Languages: Python3 | Java | C++ | C# | JavaScript | TypeScript
+
+Skills Languages: Python3 | Java | C++ | C# | JavaScript | TypeScript
+
 Backend: Django | Flask | C# | Microsoft ASP .NET Core | RESTful API
+
 Frontend: Reactjs | Angular | Redux | JavaScript | HTML5 | CSS3 | Jquery | Bootstrap | Formik | AJAX | Yup
+
 Tools: Git | GitBash | GitHub | Microsoft SQL Server Manager | Postman | Slack | Trello | Visual Studio 2022 | VS Code | GCP 
